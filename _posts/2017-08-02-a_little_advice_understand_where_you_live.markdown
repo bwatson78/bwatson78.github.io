@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "A Little Advice: Understand Where You Live"
-date:   2017-08-02 12:49:37 +0000
+date:   2017-08-02 08:49:38 -0400
 ---
 
-
+![ORLANDO!](https://68.media.tumblr.com/tumblr_loabv2naNB1qdf5ag.gif)
 II live in Orlando, FL. If you haven't screamed "Disney" yet, then I'm sure you've lived in a forty year coma and haven't started consuming media since. I've been blessed to have gone through a few different interviews, all of different types. Unfortunately, all I've walked away with is practice and an understanding of my local tech scene. What I grasped was that Central Florida is trendy in all aspects, not just our ever changing theme parks. If you want to be a web developer, you have to be social enough to find out what languages and frameworks firms are jumping on at any given moment. That's how fast things move.
 
 SInce I've started applying for jobs, I've gathered a small list of tools that the companies I've interviewed with considered "holes" in my resume. They're as follows: 
