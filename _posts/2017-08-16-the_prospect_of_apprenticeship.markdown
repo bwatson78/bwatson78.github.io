@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "The Prospect Of Apprenticeship"
-date:   2017-08-16 03:30:29 +0000
+date:   2017-08-15 23:30:29 -0400
 ---
 
 
 ![Could've gone with another example of an apprentice, but I prefer this one.](http://static.tvtropes.org/pmwiki/pub/images/the-apprentice_karate-kid-2_5587.png)
+**Expecting A Different Apprentice?**
 
 My job search is maybe a month and a half old, and I've seen some traction. I've had a few phone interviews that focused on personality, about four coding challenges, one nerve-wracking technical interview, and a big "maybe" that remains a dangling thread. Recently, I've come across the prospect of apprenticeship, which reminded me of the first Job Report that Learn.co published as I was plodding away in their course. I saw a lot of graduates get full-time permanent positions, others signed onto internships, while another pool took on apprenticeships. 
 
