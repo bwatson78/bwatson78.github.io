@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "...Moving On"
-date:       2018-09-27 20:57:53 +0000
+date:       2018-09-27 16:57:54 -0400
 permalink:  moving_on
 ---
 
@@ -14,7 +14,7 @@ PHP
 ![](https://pluralsight.imgix.net/paths/python-7be70baaac.png)
 Python
 
-![](https://goo.gl/images/rPC7ps)
+![](https://secure.gravatar.com/avatar/46c8189d84092927e2a78b63c37e7734?s=512&r=g&d=retro)
 ASP.NET
 
 That group looks mighty familiar.
