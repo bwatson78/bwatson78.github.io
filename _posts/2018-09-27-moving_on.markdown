@@ -8,13 +8,13 @@ permalink:  moving_on
 
 After an unexpected departure from my last developing position, I'm dropped back into the job search game. It's amazing how not much changes after a year. It seems that the same companies are looking for Full-Stack Web Dev's as were a year ago. Ruby on Rails growth in Orlando seems stagnant. What am I seeing?
 
-![](https://avatars1.githubusercontent.com/u/25158 =200x)
+![](https://avatars1.githubusercontent.com/u/25158)
 PHP
 
-![](https://pluralsight.imgix.net/paths/python-7be70baaac.png =200x)
+![](https://pluralsight.imgix.net/paths/python-7be70baaac.png)
 Python
 
-![](https://goo.gl/images/FXqogD =200x)
+![](https://goo.gl/images/FXqogD)
 ASP.NET
 
 That group looks mighty familiar.
