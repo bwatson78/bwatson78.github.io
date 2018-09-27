@@ -1,0 +1,24 @@
+---
+layout: post
+title:      "...Moving On"
+date:       2018-09-27 20:57:53 +0000
+permalink:  moving_on
+---
+
+
+After an unexpected departure from my last developing position, I'm dropped back into the job search game. It's amazing how not much changes after a year. It seems that the same companies are looking for Full-Stack Web Dev's as were a year ago. Ruby on Rails growth in Orlando seems stagnant. What am I seeing?
+
+![](https://avatars1.githubusercontent.com/u/25158?s=200&v=4)
+PHP
+
+![](https://pluralsight.imgix.net/paths/python-7be70baaac.png)
+Python
+
+![](https://goo.gl/images/rPC7ps)
+ASP.NET
+
+That group looks mighty familiar.
+
+I'm taking the hint. It's time to become a Frameworks Swiss Army knife. On the frontend, I feel that React sits on solid ground (Ember, Angular, and Vue look *really* smiliar.) 
+
+
